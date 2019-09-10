@@ -1,0 +1,53 @@
+
+.class1{
+  font-size: 20px;
+  font-style: italic;
+}
+
+.class2{
+
+}
+
+/*p{*/
+/*    background: white;*/
+/*}*/
+
+p1{
+    font-style: italic;
+    background: green;
+}
+
+ol li{
+    color: darkgoldenrod;
+}
+
+#10001{
+    border:1px solid yellow;
+}
+
+p .class1{
+    border: 5px dashed yellow;
+    background: blue;
+
+}
+
+p.class2{
+    text-align: center;
+}
+
+p{
+    background: #ff00ff;
+    background: rgb(255,0,255);
+    background: hsla(120,100%,50%,0.5);
+    animation: flash
+}
+
+#sidebar
+
+a:visited{
+    color:orange;
+}
+
+a:link{
+    font-weight: bold;
+}
